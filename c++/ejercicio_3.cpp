@@ -6,12 +6,13 @@ int ejercicio_3()
 {
     int a;
     int b;
+    int resul;
     cout<<"Ingrese un numero"<<endl;
     cin>>a;
     cout<<"Ingrese un numero"<<endl;
     cin>>b;
-    cout<<(a>b)?a:b;
-
+    resul=(a>b)?a:b;
+    cout<<resul;
 
     return 0;
 }

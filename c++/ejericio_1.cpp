@@ -2,7 +2,7 @@
 #define PI 3.141617
 using namespace std;
 
-int main()
+int ejericio_1()
 {
     float radio;
     float areaCir;
