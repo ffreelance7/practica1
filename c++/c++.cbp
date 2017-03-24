@@ -32,7 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="ejercicio_2.cpp" />
+		<Unit filename="ejercicio_3.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
