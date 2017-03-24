@@ -2,12 +2,16 @@
 
 using namespace std;
 
-int main()
+int ejercicio_3()
 {
     int a;
     int b;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
+    cout<<"Ingrese un numero"<<endl;
+    cin>>a;
+    cout<<"Ingrese un numero"<<endl;
+    cin>>b;
+    cout<<(a>b)?a:b;
+
+
     return 0;
 }

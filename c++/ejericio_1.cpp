@@ -8,14 +8,14 @@ int main()
     float areaCir;
     cout << "Ingrese radio" << endl;
     cin >>radio;
-    areaCir=PI*(radio^2);
+    areaCir=PI*(radio*radio);
     cout << "El Area del circulo es :"<<areaCir<< endl;
 
     int lado;
     int areCua;
-    cout << "Ingrese radio" << endl;
+    cout << "Ingrese lado" << endl;
     cin >>lado;
-    areCua=lado^2;
+    areCua=lado*lado;
     cout << "El Area del cuadrado  es :"<<areCua<< endl;
 
     int base;
